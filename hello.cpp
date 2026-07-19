@@ -24,5 +24,7 @@ int32_t main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
 
+    cout << "test" << "\n";
+
     return 0;
 }
